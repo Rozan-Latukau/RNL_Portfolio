@@ -1,0 +1,111 @@
+{
+    "main": {
+      "name": "Halo! Saya Rozan Naufal Latukau",
+      "description": "Halo Perkenalkan Nama Saya Rozan Naufal Latukau, mahasiswa jurusan Sistem Informasi Universitas Teknologi Digital Indonesia. Saat ini saya dalam mempelajari dan mengembangkan keterampilan sebagai seorang Software Engineer. Memiliki minat yang kuat dalam pemrograman dan pengembangan perangkat lunak. Berfokus pada memperluas pemahaman tentang konsep-konsep komputer dan teknologi informasi serta memberikan kontribusi dalam pengembangan solusi-solusi yang inovatif.",
+      "contact": "https://api.whatsapp.com/send/?phone=6281343445976&text=Halo%2C+Apakah+ada+yang+bisa+kami+bantu+?",
+      "cv": "https://drive.google.com/file/d/1x0pko7wKSMhCWyWdSjr_uT38VKHLHiLy/view?usp=sharing",
+      "img": "Profile.png",
+      "social": [
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/rnl.dev_/"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/Rozan-Latukau"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/rozan-naufal-latukau-992b6a221/"
+        }
+      ],
+      "education": [
+        {
+          "kampus": "Universitas Teknologi Digital Indonesia",
+          "jurusan": "Sistem Informasi",
+          "tahun": "2021-2024",
+          "info": "Saat ini saya adalah mahasiswa jurusan sistem informasi di Universitas Teknologi DIgital Indonesia. Tujuan saya adalah mempersiapkan diri untuk karier di Software Engineer setelah lulus. kemudian saya juga aktif dalam sebuah organisasi mahasiswa."
+        },
+        {
+          "kampus": "Hacktiv8 Indonesia",
+          "jurusan": "Web Development",
+          "tahun": "Agu 2023 - Des 2023",
+          "info": "Saya mengikuti program MSIB di PT Hacktivate Teknologi Indonesia dengan mengambil bidang Web Development. Di Web Development saya mempelajari HTML, CSS, Framework CSS, JavaScript, JSON dan Express js."
+        }
+      ],
+      "skills": [
+        {
+          "skil": "html.png"
+        },
+        {
+          "skil": "CSS.png"
+        },
+        {
+          "skil": "Javascript.png"
+        },
+        {
+          "skil": "React JS.png"
+        },
+        {
+          "skil": "Node JS.png"
+        },
+        {
+          "skil": "Laravel.png"
+        },
+        {
+          "skil": "Flutter.png"
+        },
+        {
+          "skil": "Mysql.png"
+        },
+        {
+          "skil": "Php.png"
+        },
+        {
+          "skil": "UI Design.png"
+        },
+        {
+          "skil": "Coreldraw.png"
+        }
+      ],
+      "experience": [
+        {
+          "job": "Asisten Dosen",
+          "nama": "Universitas Teknologi Digital Indonesia",
+          "tahun": "Feb 2023 - Jul 2023",
+          "deskripsi": "Menjelaskan setiap modul kepada mahasiswa, membuat kuis dan periksa laporan untuk setiap pertemuan, Membantu mahasiswa jika ada kesulitan dan membuat nilai mahasiswa"
+        },
+        {
+          "job": "Ketua Bidang Penelitian dan Pengembangan",
+          "nama": "Himpunan Mahasiswa Sistem Informasi",
+          "tahun": "Agu 2022 - Agu 2023",
+          "deskripsi": "Membuat program kerja seminar kampus, belajar bersama, desain media sosial organisasi dan kegiatan sosial."
+        }
+      ]
+    },
+    "project": {
+      "card": [
+        {
+          "cardimg": "Cekajadulu.png",
+          "titleJob": "CekAjaDulu",
+          "url": "https://www.figma.com/proto/QwCBsWE5qFxGAguaa9flAu/Wisata-dan-Budaya?type=design&node-id=296-893&scaling=scale-down-width&page-id=5%3A3&starting-point-node-id=296%3A893"
+        },
+        {
+          "cardimg": "bacaduluaja.png",
+          "titleJob": "BacaDuluAja",
+          "url": "https://bacadulu-aja.vercel.app"
+        },
+        {
+          "cardimg": "bengkelsehat.png",
+          "titleJob": "BengkelSehat",
+          "url": "https://github.com/Rozan-Latukau/bengkelsehat-flutter.git"
+        },
+        {
+          "cardimg": "project 5.png",
+          "titleJob": "Steme",
+          "url": "https://github.com/Rozan-Latukau/webstreaming.git"
+        }
+      ]
+    }
+  }
+  
